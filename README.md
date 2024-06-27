@@ -27,10 +27,10 @@ cd AgendaCompromissos
 *  **Ordenação por Data e Prioridade:** Essa função também funciona como a função Ordenação por Data mas é adicionado a prioridade, em que a prioridade 1 é a menor e 5 é a maior
 *  **Ordenação por Local, Prioridade e Duração:** Nessa função, eu ordenei primeiro o local por ordem alfabética e, depois ordenei a prioridade e a duração usando o Bubble Sort de forma decrescente  
 
-## :wrench: Tecnologias
+## Tecnologias
 * C
 
-## :dart: Status
+## Status
 * ➕:  In progress
 
 ## Próximas
