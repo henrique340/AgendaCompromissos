@@ -5,11 +5,11 @@ O projeto Agenda de Compromissos foi feito na linguagem c para manipular um arqu
 Os compromissos possuem as seguintes informações (Ano, mês, dia, hora, minuto, duração (em horas), prioridade (1 menor e 5 maior), nome do compromisso, descrição e local)
 
 ## Tabela de Conteúdos
-- [Instalação](#instalação) 
+- [Instalação](#Instalação) 
 - [Uso](#Uso)
-- [Tecnologias utilizadas](#Tecnologiasutilizadas)
-- [Status do projeto](#Statusdoprojeto)
-- [Próximas implementações](#Proximasimplementações)
+- [Tecnologias utilizadas](#Tecnologias)
+- [Status do projeto](#Status)
+- [Próximas implementações](#Proximas)
 - [Contribuição](#Contribuição)
 - [Contato](#Contato)
 
