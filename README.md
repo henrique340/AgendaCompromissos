@@ -7,9 +7,9 @@ Os compromissos possuem as seguintes informações (Ano, mês, dia, hora, minuto
 ## Tabela de Conteúdos
 - [Instalação](#Instalação) 
 - [Uso](#Uso)
-- [Tecnologias utilizadas](#Tecnologias)
-- [Status do projeto](#Status)
-- [Próximas implementações](#Proximas)
+- [Tecnologias](#Tecnologias)
+- [Status](#Status)
+- [Próximas](#Proximas)
 - [Contribuição](#Contribuição)
 - [Contato](#Contato)
 
