@@ -9,7 +9,7 @@ Os compromissos possuem as seguintes informações (Ano, mês, dia, hora, minuto
 - [Uso](#Uso)
 - [Tecnologias](#Tecnologias)
 - [Status](#Status)
-- [Próximas](#Proximas)
+- [Próximas](#Próximas)
 - [Contribuição](#Contribuição)
 - [Contato](#Contato)
 
